@@ -10,7 +10,7 @@ title = "OMiranda"
 [author]
   name = "Osvaldo Miranda"
   email = ""
-  link = ""
+  link = "https://omiranda.dev"
 
 # Languages config section
 defaultContentLanguage = "en"
