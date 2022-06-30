@@ -4,9 +4,7 @@ subtitle: ""
 date: "2022-06-29T10:17:00-05:00"
 lastmod: "2022-06-29T10:17:00-05:00"
 draft: false
-author: "Osvaldo Miranda"
-authorLink: "https://omiranda.dev"
-description: "The first post obviously had to be a hello world"
+summary: "The first post obviously had to be a hello world"
 slug: "hello-world"
 
 tags:
