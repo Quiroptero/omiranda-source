@@ -8,9 +8,9 @@ author: "Osvaldo Miranda"
 authorLink: "https://omiranda.dev"
 description: ""
 images: []
+slug: ""
 
 tags: []
-categories: []
 
 featuredImage: ""
 featuredImagePreview: ""
