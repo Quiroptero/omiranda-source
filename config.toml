@@ -4,7 +4,7 @@ baseURL = "https://www.omiranda.dev"
 theme = "LoveIt"
 
 # website title
-title = "OMiranda"
+title = "Osvaldo Miranda"
 
 # Author config
 [author]
@@ -29,7 +29,7 @@ defaultContentLanguage = "en"
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
       post = ""
-      name = "Posts"
+      name = "posts"
       url = "/posts/"
       # title will be shown when you hover on this menu link
       title = ""
@@ -38,16 +38,16 @@ defaultContentLanguage = "en"
       identifier = "tags"
       pre = ""
       post = ""
-      name = "Tags"
+      name = "tags"
       url = "/tags/"
       title = ""
     [[languages.en.menu.main]]
       weight = 3
-      identifier = "categories"
+      identifier = "about"
       pre = ""
       post = ""
-      name = "Categories"
-      url = "/categories/"
+      name = "about"
+      url = "/about/"
       title = ""
   [languages.es]
     weight = 2
@@ -59,7 +59,7 @@ defaultContentLanguage = "en"
       identifier = "posts"
       pre = ""
       post = ""
-      name = "Publicaciones"
+      name = "publicaciones"
       url = "/posts/"
       title = ""
     [[languages.es.menu.main]]
@@ -67,16 +67,16 @@ defaultContentLanguage = "en"
       identifier = "tags"
       pre = ""
       post = ""
-      name = "Etiquetas"
+      name = "etiquetas"
       url = "/tags/"
       title = ""
     [[languages.es.menu.main]]
       weight = 3
-      identifier = "categories"
+      identifier = "about"
       pre = ""
       post = ""
-      name = "Categorías"
-      url = "/categories/"
+      name = "acerca de"
+      url = "/about/"
       title = ""
 
 [params]
@@ -90,7 +90,7 @@ defaultContentLanguage = "en"
   #  date format
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
-  title = "OMiranda"
+  title = "OMIRANDA.DEV"
   # website description for RSS, SEO, Open Graph and Twitter Cards
   description = ""
   # website images for Open Graph and Twitter Cards
@@ -107,13 +107,13 @@ defaultContentLanguage = "en"
       # URL of the LOGO
       logo = ""
       # title name
-      name = "OMiranda"
+      name = "OMIRANDA.DEV"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
       post = ""
       #  whether to use typeit animation for title name
-      typeit = false
+      typeit = true
 
   # Footer config
   [params.footer]
@@ -154,7 +154,7 @@ defaultContentLanguage = "en"
   #  App icon config
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
-    title = "OMiranda"
+    title = "Osvaldo Miranda"
     # whether to omit favicon resource links
     noFavicon = false
     # modern SVG favicon to use in place of older style .png and .ico files
@@ -198,13 +198,13 @@ defaultContentLanguage = "en"
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = ""
+      avatarURL = "/images/profile.jpg"
       #  title shown in home page (HTML format is supported)
-      title = ""
+      title = "Osvaldo Miranda"
       # subtitle shown in home page (HTML format is supported)
       subtitle = "Building site..."
       # whether to use typeit animation for subtitle
-      typeit = true
+      typeit = false
       # whether to show social links
       social = true
       #  disclaimer (HTML format is supported)
@@ -236,6 +236,8 @@ defaultContentLanguage = "en"
 
   #  Page global config
   [params.page]
+    #  whether to show the author
+    showAuthor = false
     #  whether to hide a page from home page
     hiddenFromHomePage = false
     #  whether to hide a page from search results
@@ -335,7 +337,7 @@ defaultContentLanguage = "en"
     # blinking speed of the cursor (measured in milliseconds)
     cursorSpeed = 1000
     # character used for the cursor (HTML format is supported)
-    cursorChar = "|"
+    cursorChar = "_"
     # cursor duration after typing finishing (measured in milliseconds, "-1" means unlimited)
     duration = -1
 
