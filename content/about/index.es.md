@@ -5,23 +5,10 @@ date: 2022-06-29T22:08:27-05:00
 lastmod: 2022-06-29T22:08:27-05:00
 draft: false
 summary: ""
-images: []
+slug: "acerca-de"
+aliases: "about"
 
 tags: []
-categories: []
-
-featuredImage: ""
-featuredImagePreview: ""
-
-hiddenFromHomePage: true
-hiddenFromSearch: false
-twemoji: false
-lightgallery: true
-ruby: true
-fraction: true
-fontawesome: true
-linkToMarkdown: true
-rssFullText: false
 ---
 
 Me gusta escribir, ya sea prosa o código, y constantemente aprendo algo nuevo en el camino.
