@@ -411,7 +411,7 @@ defaultContentLanguage = "en"
 # https://gohugo.io/content-management/urls/#permalinks
 [Permalinks]
   # posts = ":year/:month/:title"
-  posts = ":filename"
+  posts = ":slugorfilename"
 
 # Privacy config
 [privacy]
