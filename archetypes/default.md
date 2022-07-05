@@ -4,26 +4,13 @@ subtitle: ""
 date: {{ .Date }}
 lastmod: {{ .Date }}
 draft: true
-author: "Osvaldo Miranda"
-authorLink: "https://omiranda.dev"
-description: ""
-images: []
+summary: ""
 slug: ""
+aliases:
 
 tags: []
 
-featuredImage: ""
-featuredImagePreview: ""
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-twemoji: false
-lightgallery: true
-ruby: true
-fraction: true
-fontawesome: true
-linkToMarkdown: true
-rssFullText: false
+keywords:
 ---
 
 <!--more-->
