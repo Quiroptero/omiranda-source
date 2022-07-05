@@ -6,10 +6,11 @@ lastmod: 2022-06-29T10:17:00-05:00
 draft: false
 summary: "La primera publicación debía ser un Hola Mundo, obviamente"
 slug: "hola-mundo"
+aliases: "hello-world"
 
 tags:
-  - hola mundo
-  - incluye código
+  - "hola mundo"
+  - "incluye código"
 
 featuredImage: ""
 featuredImagePreview: ""
