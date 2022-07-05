@@ -24,6 +24,34 @@ enableGitInfo = true
     languageCode = "en"
     languageName = "English"
     copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+    [languages.en.params]
+      [languages.en.params.home]
+        # Home page profile
+        [languages.en.params.home.profile]
+          enable = true
+          # URL of avatar shown in home page
+          avatarURL = "/images/profile.jpg"
+          #  title shown in home page (HTML format is supported)
+          title = "Osvaldo Miranda"
+          # subtitle shown in home page (HTML format is supported)
+          subtitle = """
+          <p>Writer and coder<br>
+          That's pretty much the same thing, but in different languages</p>
+          """
+          # whether to use typeit animation for subtitle
+          typeit = false
+          # whether to show social links
+          social = true
+          #  disclaimer (HTML format is supported)
+          disclaimer = ""
+        # Home page posts
+        [languages.en.params.home.posts]
+          enable = true
+          # special amount of posts in each home posts page
+          paginate = 5
+          #  replaced with hiddenFromHomePage in params.page
+          # default behavior when you don't set "hiddenFromHomePage" in front matter
+          defaultHiddenFromHomePage = false
     # Menu config
     [[languages.en.menu.main]]
       weight = 1
@@ -57,6 +85,34 @@ enableGitInfo = true
     languageCode = "es"
     languageName = "Español"
     copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+    [languages.es.params]
+      [languages.es.params.home]
+        # Home page profile
+        [languages.es.params.home.profile]
+          enable = true
+          # URL of avatar shown in home page
+          avatarURL = "/images/profile.jpg"
+          #  title shown in home page (HTML format is supported)
+          title = "Osvaldo Miranda"
+          # subtitle shown in home page (HTML format is supported)
+          subtitle = """
+          <p>Escribo y programo<br>
+          (Es la misma cosa, en diferentes lenguajes)</p>
+          """
+          # whether to use typeit animation for subtitle
+          typeit = false
+          # whether to show social links
+          social = true
+          #  disclaimer (HTML format is supported)
+          disclaimer = ""
+        # Home page posts
+        [languages.es.params.home.posts]
+          enable = true
+          # special amount of posts in each home posts page
+          paginate = 5
+          #  replaced with hiddenFromHomePage in params.page
+          # default behavior when you don't set "hiddenFromHomePage" in front matter
+          defaultHiddenFromHomePage = false
     [[languages.es.menu.main]]
       weight = 1
       identifier = "posts"
@@ -204,8 +260,6 @@ enableGitInfo = true
       avatarURL = "/images/profile.jpg"
       #  title shown in home page (HTML format is supported)
       title = "Osvaldo Miranda"
-      # subtitle shown in home page (HTML format is supported)
-      subtitle = "Building site..."
       # whether to use typeit animation for subtitle
       typeit = false
       # whether to show social links
