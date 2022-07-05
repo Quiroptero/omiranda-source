@@ -3,7 +3,7 @@ title: "Cómo traducir enlaces en Hugo: una alternativa"
 subtitle: "Y una palabra o dos sobre el código abierto"
 date: 2022-07-04T19:40:11-05:00
 lastmod: 2022-07-04T19:40:11-05:00
-draft: true
+draft: false
 summary: "Una alternativa simple para traducir enlaces en Hugo"
 slug: "traducir-enlaces"
 aliases: "localizing-permalinks"

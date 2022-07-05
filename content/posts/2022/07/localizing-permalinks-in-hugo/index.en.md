@@ -3,7 +3,7 @@ title: "How to localize permalinks in Hugo: a workaround"
 subtitle: "And a word or two on going open source"
 date: 2022-07-04T19:40:11-05:00
 lastmod: 2022-07-04T19:40:11-05:00
-draft: true
+draft: false
 summary: "A simple workaround to get permalinks localization in Hugo"
 slug: "localizing-permalinks"
 aliases: "traducir-enlaces"
