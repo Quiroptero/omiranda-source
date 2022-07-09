@@ -12,11 +12,12 @@ jobs:
     runs-on: ubuntu-20.04
     # https://wiki.ubuntu.com/Releases
     steps:
-      - name: Project checkout
+      - name: Checkout project's default branch
         uses: actions/checkout@v3
         # https://github.com/actions/checkout
         with:
           submodules: true
+          fetch-depth: 0
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
