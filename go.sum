@@ -8,3 +8,5 @@ github.com/Quiroptero/hugo-theme-loveit-custom v0.0.0-20220717202909-cacc1e7f13e
 github.com/Quiroptero/hugo-theme-loveit-custom v0.0.0-20220717202909-cacc1e7f13ed/go.mod h1:5BjUTPt5/T9bhBmxQwzV2ASQAGUTwFggSFag1tkwxRg=
 github.com/dillonzq/LoveIt v0.2.11 h1:rIj8YX5oJHHyKazLLWBwvURCoVizsNBQJc6vVKX6AG8=
 github.com/dillonzq/LoveIt v0.2.11/go.mod h1:6IBQv4PKou3cERt0xcxud81O793taOmJqYKXn1eNPB4=
+github.com/dillonzq/LoveIt v0.2.12-0.20220716124141-e9e89a4613ba h1:0LzxERdQsGL8Bxv+EPzaQxWg2z1WCW3jS6JMpij22bY=
+github.com/dillonzq/LoveIt v0.2.12-0.20220716124141-e9e89a4613ba/go.mod h1:6IBQv4PKou3cERt0xcxud81O793taOmJqYKXn1eNPB4=
