@@ -1,7 +1,15 @@
 baseURL = "https://www.omiranda.dev"
 
-# Change the default theme to be use when building the site with Hugo
-theme = "LoveIt"
+[module]
+  [[module.imports]]
+    # shortcodes
+    path = "github.com/Quiroptero/hugo-shortcodes"
+  [[module.imports]]
+    # customizations on base theme
+    path = "github.com/Quiroptero/hugo-theme-loveit-custom"
+  [[module.imports]]
+    # site theme
+    path = "github.com/dillonzq/LoveIt"
 
 # website title
 title = "Osvaldo Miranda"
