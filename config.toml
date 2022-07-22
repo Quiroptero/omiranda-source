@@ -193,7 +193,7 @@ enableGitInfo = true
       # you can add extra information after the name (HTML format is supported), such as icons
       post = ""
       #  whether to use typeit animation for title name
-      typeit = true
+      typeit = false
 
   # Footer config
   [params.footer]
@@ -415,7 +415,7 @@ enableGitInfo = true
     # blinking speed of the cursor (measured in milliseconds)
     cursorSpeed = 1000
     # character used for the cursor (HTML format is supported)
-    cursorChar = "_"
+    cursorChar = ""
     # cursor duration after typing finishing (measured in milliseconds, "-1" means unlimited)
     duration = -1
 
