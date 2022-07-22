@@ -12,6 +12,8 @@ github.com/Quiroptero/hugo-theme-loveit-custom v0.0.0-20220722040334-095226ac876
 github.com/Quiroptero/hugo-theme-loveit-custom v0.0.0-20220722040334-095226ac8769/go.mod h1:5BjUTPt5/T9bhBmxQwzV2ASQAGUTwFggSFag1tkwxRg=
 github.com/Quiroptero/hugo-theme-loveit-custom v0.0.0-20220722042130-90ab6a91b581 h1:Rh1w+VgQnP4vKPpPHC4+SR8MbYb/I/OXJKiq6OLXulA=
 github.com/Quiroptero/hugo-theme-loveit-custom v0.0.0-20220722042130-90ab6a91b581/go.mod h1:5BjUTPt5/T9bhBmxQwzV2ASQAGUTwFggSFag1tkwxRg=
+github.com/Quiroptero/hugo-theme-loveit-custom v0.0.0-20220722043135-8314f37c7974 h1:EyX0UIz0MnS0iNHAbhWOcoopYEgurYYQ0X+XnEEwvME=
+github.com/Quiroptero/hugo-theme-loveit-custom v0.0.0-20220722043135-8314f37c7974/go.mod h1:5BjUTPt5/T9bhBmxQwzV2ASQAGUTwFggSFag1tkwxRg=
 github.com/dillonzq/LoveIt v0.2.11 h1:rIj8YX5oJHHyKazLLWBwvURCoVizsNBQJc6vVKX6AG8=
 github.com/dillonzq/LoveIt v0.2.11/go.mod h1:6IBQv4PKou3cERt0xcxud81O793taOmJqYKXn1eNPB4=
 github.com/dillonzq/LoveIt v0.2.12-0.20220716124141-e9e89a4613ba h1:0LzxERdQsGL8Bxv+EPzaQxWg2z1WCW3jS6JMpij22bY=
