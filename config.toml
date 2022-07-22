@@ -88,6 +88,14 @@ enableGitInfo = true
       name = "about"
       url = "/about/"
       title = ""
+    [[languages.en.menu.main]]
+      weight = 4
+      identifier = "stats"
+      pre = ""
+      post = ""
+      name = "stats"
+      url = "/stats/"
+      title = ""
   [languages.es]
     weight = 2
     languageCode = "es"
@@ -144,6 +152,14 @@ enableGitInfo = true
       post = ""
       name = "acerca de"
       url = "/about/"
+      title = ""
+    [[languages.es.menu.main]]
+      weight = 4
+      identifier = "stats"
+      pre = ""
+      post = ""
+      name = "estadísticas"
+      url = "/stats/"
       title = ""
 
 [params]
