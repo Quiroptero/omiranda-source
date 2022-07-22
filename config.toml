@@ -1,4 +1,10 @@
 baseURL = "https://www.omiranda.dev"
+# website title
+title = "Osvaldo Miranda"
+# Languages config section
+defaultContentLanguage = "en"
+# whether to use git commit log
+enableGitInfo = true
 
 [module]
   [[module.imports]]
@@ -11,20 +17,11 @@ baseURL = "https://www.omiranda.dev"
     # site theme
     path = "github.com/dillonzq/LoveIt"
 
-# website title
-title = "Osvaldo Miranda"
-
 # Author config
 [author]
   name = "Osvaldo Miranda"
   email = ""
   link = "https://omiranda.dev"
-
-# Languages config section
-defaultContentLanguage = "en"
-
-# whether to use git commit log
-enableGitInfo = true
 
 [languages]
   [languages.en]
@@ -514,7 +511,6 @@ enableGitInfo = true
 
 # Options to make hugo output files
 [outputs]
-  #
   home = ["HTML", "RSS", "JSON"]
   page = ["HTML", "MarkDown"]
   section = ["HTML", "RSS"]
