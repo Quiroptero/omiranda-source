@@ -87,6 +87,14 @@ enableGitInfo = true
       title = ""
     [[languages.en.menu.main]]
       weight = 4
+      identifier = "blogroll"
+      pre = ""
+      post = ""
+      name = "blogroll"
+      url = "/blogroll/"
+      title = ""
+    [[languages.en.menu.main]]
+      weight = 5
       identifier = "stats"
       pre = ""
       post = ""
@@ -152,6 +160,14 @@ enableGitInfo = true
       title = ""
     [[languages.es.menu.main]]
       weight = 4
+      identifier = "blogroll"
+      pre = ""
+      post = ""
+      name = "blogs que sigo"
+      url = "/blogs-que-sigo/"
+      title = ""
+    [[languages.es.menu.main]]
+      weight = 5
       identifier = "stats"
       pre = ""
       post = ""
