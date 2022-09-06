@@ -17,9 +17,9 @@ This page was fully inspired[^1] by [Luke's favorite blogs](https://www.lkhrs.co
 * [Logan Marchione](https://loganmarchione.com/)
 * [Excursions](https://www.amitgawande.com/)
 * [brycewray.com](https://www.brycewray.com/)
-* [Lunch bag](lunchbag.ca)
+* [Lunch bag](https://lunchbag.ca)
 * [Zach Holman!](https://zachholman.com/posts/)
 * [brianli.com](https://brianli.com/)
 
- 
+
 [^1]: Actually, great part of the whole site has been inspired by Luke's blog.

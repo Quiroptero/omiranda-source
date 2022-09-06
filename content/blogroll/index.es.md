@@ -17,9 +17,9 @@ Este listado fue totalmente inspirado[^1] por [los blogs favoritos de Luke](http
 * [Logan Marchione](https://loganmarchione.com/)
 * [Excursions](https://www.amitgawande.com/)
 * [brycewray.com](https://www.brycewray.com/)
-* [Lunch bag](lunchbag.ca)
+* [Lunch bag](https://lunchbag.ca)
 * [Zach Holman!](https://zachholman.com/posts/)
 * [brianli.com](https://brianli.com/)
 
- 
+
 [^1]: En realidad, gran parte de este sitio _web_ ha sido inspirado por el blog de Luke.
