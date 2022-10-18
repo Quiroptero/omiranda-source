@@ -505,7 +505,7 @@ enableGitInfo = true
 # https://gohugo.io/content-management/urls/#permalinks
 [Permalinks]
   # posts = ":year/:month/:title"
-  posts = ":slugorfilename"
+  posts = ":year/:month/:slug"
 
 # Privacy config
 [privacy]
