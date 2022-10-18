@@ -40,7 +40,6 @@ The easiest way to achieve the desired behavior is to tweak the
 since I want to enable both possibilities commiting with UTC and local timestamps) possibilities.
 
 I'm using **[zsh](https://www.zsh.org/)**, so I added the following function in my `~/.zshrc` file:
-{{< admonition type=example title="Zsh function" open=false >}}
 ```zsh
 function gcomdate() {
   export GIT_AUTHOR_DATE=$(date);
@@ -48,7 +47,10 @@ function gcomdate() {
   git commit "$@"
 }
 ```
+{{< admonition type=tip title="" open=false >}}
+To activate the function right away, execute `source ~/.zshrc` or restart the shell.
 {{< /admonition >}}
+
 
 That's just a shortcut to setting both environment variables each time that I want local timestamps in my commits.
 For UTC timestamps I just commit the usual way.
@@ -58,5 +60,13 @@ Input:
 git commit -m <message>
 ```
 Output:
+![UTC timestamp example](example_utc.png "UTC timestamp")
 
+Input:
+```bash
+gcomdate -m <message>
+```
+Output:
+![Local timestamp example](example_local.png "Local (CDT) timestamp")
 
+The function is in [my dotfiles](https://github.com/Quiroptero/dotfiles).
