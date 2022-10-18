@@ -20,7 +20,7 @@ enableGitInfo = true
 # Author config
 [author]
   name = "Osvaldo Miranda"
-  email = ""
+  email = "hola@omiranda.dev"
   link = "https://omiranda.dev"
 
 [languages]
