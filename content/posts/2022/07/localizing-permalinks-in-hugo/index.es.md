@@ -6,7 +6,9 @@ lastmod: 2022-07-04T19:40:11-05:00
 draft: false
 summary: "Una alternativa simple para traducir enlaces en Hugo"
 slug: "traducir-enlaces"
-aliases: "localizing-permalinks"
+aliases:
+  - "localizing-permalinks"
+  - "traducir-enlaces"
 
 tags:
   - "hugo"

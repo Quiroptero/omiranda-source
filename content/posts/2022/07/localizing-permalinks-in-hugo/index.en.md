@@ -6,7 +6,9 @@ lastmod: 2022-07-04T19:40:11-05:00
 draft: false
 summary: "A simple workaround to get permalinks localization in Hugo"
 slug: "localizing-permalinks"
-aliases: "traducir-enlaces"
+aliases:
+  - "traducir-enlaces"
+  - "localizing-permalinks"
 
 tags:
   - "hugo"

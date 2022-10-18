@@ -6,7 +6,9 @@ lastmod: 2022-06-29T10:17:00-05:00
 draft: false
 summary: "La primera publicación debía ser un Hola Mundo, obviamente"
 slug: "hola-mundo"
-aliases: "hello-world"
+aliases:
+  - "hello-world"
+  - "hola-mundo"
 
 tags:
   - "hola mundo"
