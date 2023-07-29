@@ -6,9 +6,7 @@ lastmod: 2022-07-17T21:04:37-05:00
 draft: false
 summary: "A simple bash command to divide a directory full of files according to the filenames"
 slug: "how-to-divide-a-directory-into-new-subdirectories"
-aliases:
-  - "como-dividir-un-directorio-en-subdirectorios"
-  - "how-to-divide-a-directory-into-new-subdirectories"
+aliases: []
 
 tags:
   - "bash"

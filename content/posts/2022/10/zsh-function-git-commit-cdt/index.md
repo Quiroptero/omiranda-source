@@ -5,8 +5,7 @@ date: 2022-10-17
 draft: false
 summary: "Choosing between UTC and CDT when commiting"
 slug: "local-timezone-commit-with-zsh"
-aliases:
-  - "commit-zona-horaria-local-zsh"
+aliases: []
 
 tags:
   - "git"

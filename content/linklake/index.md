@@ -4,7 +4,7 @@ subtitle: ""
 draft: false
 summary: ""
 slug: "linklake"
-aliases: "bodega-de-links"
+aliases: []
 
 tags: []
 

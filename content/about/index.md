@@ -6,7 +6,7 @@ lastmod: 2022-06-29T22:08:27-05:00
 draft: false
 summary: ""
 slug: "about"
-aliases: "acerca-de"
+aliases: []
 
 tags: []
 ---

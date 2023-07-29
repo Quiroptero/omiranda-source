@@ -4,7 +4,7 @@ subtitle: "A list of sites that I enjoy reading"
 draft: false
 summary: ""
 slug: "blogroll"
-aliases: "blogs-que-sigo"
+aliases: []
 
 tags: []
 

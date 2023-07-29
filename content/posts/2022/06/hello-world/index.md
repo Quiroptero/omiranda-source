@@ -6,9 +6,7 @@ date: "2022-06-29T10:17:00-05:00"
 draft: false
 summary: "The first post obviously had to be a hello world"
 slug: "hello-world"
-aliases:
-  - "hola-mundo"
-  - "hello-world"
+aliases: []
 
 tags:
   - hello world
