@@ -1,0 +1,10 @@
+/bats/centurio_senex
+/bats/ectophylla_alba
+/bats/eumops_perotis
+/bats/hypsignathus_monstrosus
+/bats/lasiurus_cinereus
+/bats/leptonycteris_nivalis
+/bats/noctilio_leporinus
+/bats/nyctimene_rabori
+/bats/pteropus_rodricensis
+/bats/vampyrum_spectrum
