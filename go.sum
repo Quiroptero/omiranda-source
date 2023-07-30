@@ -4,6 +4,8 @@ github.com/Quiroptero/hugo-shortcodes v0.0.0-20220717203157-173f63c5719d h1:Hyr3
 github.com/Quiroptero/hugo-shortcodes v0.0.0-20220717203157-173f63c5719d/go.mod h1:dcP+R7thsF5dOKH5dgNbw0oD13nylncYkJlmD0btUfQ=
 github.com/Quiroptero/hugo-shortcodes v0.0.0-20221016221428-34130b351a29 h1:CqUkpoYEaUux+OJoo3gAlc2iZ7EUU83WqjJKBqkJLnY=
 github.com/Quiroptero/hugo-shortcodes v0.0.0-20221016221428-34130b351a29/go.mod h1:dcP+R7thsF5dOKH5dgNbw0oD13nylncYkJlmD0btUfQ=
+github.com/Quiroptero/hugo-shortcodes v0.0.0-20230322054724-1b9b6618a809 h1:00r0l5z7FdnMVM4P6upEczxmL3QKyenrSQB6hfDD0us=
+github.com/Quiroptero/hugo-shortcodes v0.0.0-20230322054724-1b9b6618a809/go.mod h1:dcP+R7thsF5dOKH5dgNbw0oD13nylncYkJlmD0btUfQ=
 github.com/Quiroptero/hugo-theme-loveit-custom v0.0.0-20220717200634-2ef8ca425e56 h1:Yvxe1piqMvwcjdL9cWtH58Vkx0o/QiEkVfAgNk7nNvA=
 github.com/Quiroptero/hugo-theme-loveit-custom v0.0.0-20220717200634-2ef8ca425e56/go.mod h1:5BjUTPt5/T9bhBmxQwzV2ASQAGUTwFggSFag1tkwxRg=
 github.com/Quiroptero/hugo-theme-loveit-custom v0.0.0-20220717202909-cacc1e7f13ed h1:yo6ay301ragdLq278NWFUzrQQO8Nva68/zgooe/twDw=
@@ -18,6 +20,8 @@ github.com/Quiroptero/hugo-theme-loveit-custom v0.0.0-20220722043135-8314f37c797
 github.com/Quiroptero/hugo-theme-loveit-custom v0.0.0-20220722043135-8314f37c7974/go.mod h1:5BjUTPt5/T9bhBmxQwzV2ASQAGUTwFggSFag1tkwxRg=
 github.com/Quiroptero/hugo-theme-loveit-custom v0.0.0-20221018012736-e0089ab4fb2c h1:dGQ9huQK4fiHQg0xcZVWruqc8mCJGoPcasIoO8GjrKo=
 github.com/Quiroptero/hugo-theme-loveit-custom v0.0.0-20221018012736-e0089ab4fb2c/go.mod h1:5BjUTPt5/T9bhBmxQwzV2ASQAGUTwFggSFag1tkwxRg=
+github.com/Quiroptero/hugo-theme-loveit-custom v0.0.0-20230730001132-f873920f3f22 h1:RsSyzd16A4rzWxEndbt3Ed0MWoJudSrCpk2qpUIezP4=
+github.com/Quiroptero/hugo-theme-loveit-custom v0.0.0-20230730001132-f873920f3f22/go.mod h1:5BjUTPt5/T9bhBmxQwzV2ASQAGUTwFggSFag1tkwxRg=
 github.com/dillonzq/LoveIt v0.2.11 h1:rIj8YX5oJHHyKazLLWBwvURCoVizsNBQJc6vVKX6AG8=
 github.com/dillonzq/LoveIt v0.2.11/go.mod h1:6IBQv4PKou3cERt0xcxud81O793taOmJqYKXn1eNPB4=
 github.com/dillonzq/LoveIt v0.2.12-0.20220716124141-e9e89a4613ba h1:0LzxERdQsGL8Bxv+EPzaQxWg2z1WCW3jS6JMpij22bY=
