@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 subtitle: ""
-date: "2022-06-29T10:17:00-05:00"
+date: "2022-06-29"
 
 draft: false
 summary: "The first post obviously had to be a hello world"
@@ -10,7 +10,6 @@ aliases: []
 
 tags:
   - hello world
-  - has code
 
 featuredImage: ""
 featuredImagePreview: ""

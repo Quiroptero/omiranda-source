@@ -3,14 +3,13 @@ title: "Zsh function to commit in local timezone"
 subtitle: ""
 date: 2022-10-17
 draft: false
-summary: "Choosing between UTC and CDT when commiting"
+summary: "Choosing between UTC and CDT when committing"
 slug: "local-timezone-commit-with-zsh"
 aliases: []
 
 tags:
   - "git"
   - "zsh"
-  - "has-code"
 
 keywords:
   -
@@ -19,7 +18,7 @@ keywords:
 # The issue
 
 I discovered a couple of days ago that my git installation is showing UTC timestamps
-instead of my local offset (CDT in this moment of the year).
+instead of my local offset (CDT at this moment of the year).
 
 This is the output when executing `git log`:
 ![Git log showing UTC timestamps](utc_timestamp.png "UTC timestamp")
@@ -36,9 +35,9 @@ which is correctly displaying the last modified date in my website posts.
 
 The easiest way to achieve the desired behavior is to tweak the
 [Git environment variables](https://git-scm.com/book/en/v2/Git-Internals-Environment-Variables),
-since I want to enable both possibilities commiting with UTC and local timestamps) possibilities.
+since I want to enable both committing with UTC and local timestamps.
 
-I'm using **[zsh](https://www.zsh.org/)**, so I added the following function in my `~/.zshrc` file:
+Because I'm using **[zsh](https://www.zsh.org/)**, I added the following function in my `~/.zshrc` file:
 ```zsh
 function gcomdate() {
   export GIT_AUTHOR_DATE=$(date);
@@ -50,9 +49,8 @@ function gcomdate() {
 To activate the function right away, execute `source ~/.zshrc` or restart the shell.
 {{< /admonition >}}
 
-
-That's just a shortcut to setting both environment variables each time that I want local timestamps in my commits.
-For UTC timestamps I just commit the usual way.
+That's a shortcut to setting both environment variables each time that I want local timestamps in my commits.
+For UTC timestamps I commit the usual way.
 
 Input:
 ```bash
@@ -68,4 +66,4 @@ gcomdate -m <message>
 Output:
 ![Local timestamp example](example_local.png "Local (CDT) timestamp")
 
-The function is in [my dotfiles](https://github.com/Quiroptero/dotfiles).
+The function is available in [my dotfiles](https://github.com/Quiroptero/dotfiles).
