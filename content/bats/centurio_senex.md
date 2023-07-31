@@ -1,6 +1,6 @@
 ---
 slug: "centurio_senex"
-subtitle: "Random bat cool fact"
+subtitle: "Cool random fact about bats"
 ---
 
 # Distinctive Facial Folds

@@ -1,6 +1,6 @@
 ---
 slug: "eumops_perotis"
-subtitle: "Random bat cool fact"
+subtitle: "Cool random fact about bats"
 ---
 
 # Insect-Hunting Powerhouse

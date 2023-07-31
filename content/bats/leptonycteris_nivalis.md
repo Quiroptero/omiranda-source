@@ -1,6 +1,6 @@
 ---
 slug: "leptonycteris_nivalis"
-subtitle: "Random bat cool fact"
+subtitle: "Cool random fact about bats"
 ---
 
 # Tequila Pollinator Extraordinaire

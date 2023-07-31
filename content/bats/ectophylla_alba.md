@@ -1,6 +1,6 @@
 ---
 slug: "ectophylla_alba"
-subtitle: "Random bat cool fact"
+subtitle: "Cool random fact about bats"
 ---
 
 # Nesting strategy: Living Leaf Tents

@@ -1,6 +1,6 @@
 ---
 slug: "pteropus_rodricensis"
-subtitle: "Random bat cool fact"
+subtitle: "Cool random fact about bats"
 ---
 
 # Seed Dispersal Specialist

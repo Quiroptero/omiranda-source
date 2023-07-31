@@ -1,6 +1,6 @@
 ---
 slug: "nyctimene_rabori"
-subtitle: "Random bat cool fact"
+subtitle: "Cool random fact about bats"
 ---
 
 # Specialized Fruit-Eater

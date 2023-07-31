@@ -1,6 +1,6 @@
 ---
 slug: "vampyrum_spectrum"
-subtitle: "Random bat cool fact"
+subtitle: "Cool random fact about bats"
 ---
 
 # Impressive Giant of the Night
