@@ -1,5 +1,6 @@
 ---
 slug: "eumops_perotis"
+subtitle: "Random bat cool fact"
 ---
 
 # Insect-Hunting Powerhouse

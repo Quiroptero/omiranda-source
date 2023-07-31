@@ -1,5 +1,6 @@
 ---
 slug: "noctilio_leporinus"
+subtitle: "Random bat cool fact"
 ---
 
 # Specialized Fishing Bat

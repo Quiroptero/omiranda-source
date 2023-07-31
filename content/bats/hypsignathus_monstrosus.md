@@ -1,5 +1,6 @@
 ---
 slug: "hypsignathus_monstrosus"
+subtitle: "Random bat cool fact"
 ---
 
 # Extraordinary Facial Structure

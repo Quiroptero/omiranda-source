@@ -1,5 +1,6 @@
 ---
 slug: "lasiurus_cinereus"
+subtitle: "Random bat cool fact"
 ---
 
 # Elusive Nocturnal Wanderer
