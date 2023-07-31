@@ -48,14 +48,6 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     name = "about"
     url = "/about/"
     title = ""
-  [[menu.main]]
-    weight = 3
-    identifier = "bats"
-    pre = """<a href="#" id="random-bat-cool-fact">🦇</a>"""
-    post = ""
-    name = ""
-    url = ""
-    title = ""
 
 [params]
   # site default theme ["auto", "light", "dark"]
@@ -199,7 +191,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     Github = "Quiroptero"
     Linkedin = "omiranda-dev"
     Email = "hola@omiranda.dev"
-    # FreeCodeCamp = ""
+    FreeCodeCamp = "quiroptero"
     RSS = true
 
   #  Page global config
