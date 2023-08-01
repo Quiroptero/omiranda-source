@@ -10,6 +10,7 @@
 /bats/hypsignathus_monstrosus
 /bats/lasiurus_cinereus
 /bats/leptonycteris_nivalis
+/bats/myotis_myotis
 /bats/noctilio_leporinus
 /bats/nyctimene_rabori
 /bats/pest_control
