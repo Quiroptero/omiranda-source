@@ -1,16 +1,16 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
+title: ""
 subtitle: ""
+summary: ""  # This one is displayed in the list of posts
+
 date: {{ .Date }}
 lastmod: {{ .Date }}
-draft: true
-summary: ""
+
 slug: ""
-aliases:
 
 tags: []
 
-keywords:
+draft: true
 ---
 
 <!--more-->
