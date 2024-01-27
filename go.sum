@@ -6,6 +6,8 @@ github.com/Quiroptero/hugo-shortcodes v0.0.0-20221016221428-34130b351a29 h1:CqUk
 github.com/Quiroptero/hugo-shortcodes v0.0.0-20221016221428-34130b351a29/go.mod h1:dcP+R7thsF5dOKH5dgNbw0oD13nylncYkJlmD0btUfQ=
 github.com/Quiroptero/hugo-shortcodes v0.0.0-20230322054724-1b9b6618a809 h1:00r0l5z7FdnMVM4P6upEczxmL3QKyenrSQB6hfDD0us=
 github.com/Quiroptero/hugo-shortcodes v0.0.0-20230322054724-1b9b6618a809/go.mod h1:dcP+R7thsF5dOKH5dgNbw0oD13nylncYkJlmD0btUfQ=
+github.com/Quiroptero/hugo-shortcodes v0.0.0-20230803045743-91db18506ba4 h1:W//9HQho4VJ6TsFgPHVLOIwBgJ5qO9Nmbw5dddo5/u0=
+github.com/Quiroptero/hugo-shortcodes v0.0.0-20230803045743-91db18506ba4/go.mod h1:dcP+R7thsF5dOKH5dgNbw0oD13nylncYkJlmD0btUfQ=
 github.com/Quiroptero/hugo-theme-loveit-custom v0.0.0-20220717200634-2ef8ca425e56 h1:Yvxe1piqMvwcjdL9cWtH58Vkx0o/QiEkVfAgNk7nNvA=
 github.com/Quiroptero/hugo-theme-loveit-custom v0.0.0-20220717200634-2ef8ca425e56/go.mod h1:5BjUTPt5/T9bhBmxQwzV2ASQAGUTwFggSFag1tkwxRg=
 github.com/Quiroptero/hugo-theme-loveit-custom v0.0.0-20220717202909-cacc1e7f13ed h1:yo6ay301ragdLq278NWFUzrQQO8Nva68/zgooe/twDw=
