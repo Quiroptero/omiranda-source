@@ -396,13 +396,6 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   isPlainText = true
   isHTML = false
 
-# Options to make hugo output files
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
-  page = ["HTML", "MarkDown"]
-  section = ["HTML", "RSS"]
-  taxonomy = ["HTML", "RSS"]
-
 [frontmatter]
   date = ["date", "publishDate", "lastmod"]
   lastmod = ["lastmod", ":git", "date", "publishDate"]
