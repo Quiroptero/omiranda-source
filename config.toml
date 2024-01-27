@@ -50,6 +50,11 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     title = ""
 
 [params]
+  # Author config
+  [[params.author]]
+    name = "Osvaldo Miranda"
+    email = "hola@omiranda.dev"
+    link = "https://omiranda.dev"
   # site default theme ["auto", "light", "dark"]
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
@@ -397,7 +402,6 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   page = ["HTML", "MarkDown"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
-  taxonomyTerm = ["HTML"]
 
 [frontmatter]
   date = ["date", "publishDate", "lastmod"]
