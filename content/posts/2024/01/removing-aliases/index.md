@@ -10,7 +10,7 @@ slug: "removing-aliases"
 
 tags: ["python", "hugo"]
 
-draft: true
+draft: false
 ---
 
 ## Backwards compatibility through aliases {#backwards-compatibility}
