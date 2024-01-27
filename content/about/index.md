@@ -13,18 +13,13 @@ tags: []
 
 # Welcome to **The coding chiroptera's lore**!
 
-This website is my personal coding journal where I document my learnings in Python and other technologies.
-I'll be **[writing](/posts)** about my findings, challenges and things I have built.
-You can find all the posts, grouped by year, in the **[/archive](/archive)**.
+This website is a place for me to [learn in public](https://www.swyx.io/learn-in-public).
+With that in mind, I'll be publishing **[/posts](/posts)** about my findings and lessons learned.
+You can find all of them grouped by year in the **[/archive](/archive)**.
 
-I wanted some descriptive analytics of the website,
-so I added a **[/stats](/stats)** page.
-
-I keep track of features to be implemented and bugs to be crushed in
-**[the repository](https://github.com/Quiroptero/omiranda-source/issues)**.
-
-Finally, this website hadn't been possible without all the things I have learned from cool
-(and sometimes anonymous) people out there.
+* The source code of this website is located in a [Github repository](https://github.com/Quiroptero/omiranda-source).
+* There's a **[/stats](/stats)** page to showcase some descriptive analytics.
+* This website has been inspired by many cool (and sometimes anonymous) people out there.
 To all of them, **[/thank-you](/thank-you)**.
 
 # About me
@@ -35,17 +30,18 @@ While my main interest is Python,
 I have also taken a dive on several other technologies,
 including [Hugo](https://gohugo.io/), which is the framework I use to build this site.
 
-I have a list of things that I use in my **[/uses](/uses)** page
-and a collection of websites that I like to read in my **[/blogroll](/blogroll)**.
+There is a **[/uses](/uses)** page and also a **[/blogroll](/blogroll)**.
 
 <img src="/images/profile.jpeg" title="This is me" alt="A picture of myself" width="200" >
 
 ### Where to find me
 
-All my projects are repositories listed in my **[GitHub profile](https://github.com/Quiroptero)**.
-Although I don't like the platform, I have a **[LinkedIn account](https://www.linkedin.com/in/omiranda-dev/)**.
-If you want a more **detailed and formal CV**, you can check it out **[here](https://omiranda.dev/cv)**.
-We can get in touch via **[email](mailto:hola@omiranda.dev)**.
+* **Email**. I do prefer to be contacted by **[email](mailto:contact@omiranda.dev)**.
+* **This website**. I don't have social media.
+* **[GitHub profile](https://github.com/Quiroptero)**.
+* **LinkedIn**. Ugh. I really don't like it, but is somehow useful?
+
+If you are interested in a CV/resume, you can check it out **[here](https://omiranda.dev/cv)**
 
 ---
 
