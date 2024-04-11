@@ -6,6 +6,9 @@ defaultContentLanguage = "en"
 # whether to use git commit log
 enableGitInfo = true
 
+[taxonomies]
+  tag = "tags"
+
 [module]
   [[module.imports]]
     # shortcodes
