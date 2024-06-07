@@ -32,7 +32,7 @@ jobs:
         # https://github.com/peaceiris/actions-gh-pages
         with:
           deploy_key: ${{ secrets.DEPLOY_KEY }}
-          external_repository: Quiroptero/omiranda.dev
+          external_repository: Quiroptero/quiroptero.github.io
           cname: omiranda.dev
           publish_branch: gh-pages
           publish_dir: ./public
