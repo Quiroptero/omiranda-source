@@ -151,7 +151,7 @@ jobs:
           files: content/blog/**/*.md
 
       - name: Notify of new posts
-        #if: steps.changed-files.outputs.added_files_count > 0
+        if: steps.changed-files.outputs.added_files_count > 0
         env:
           ALL_ADDED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
           API_ID: ${{ secrets.API_ID }}
