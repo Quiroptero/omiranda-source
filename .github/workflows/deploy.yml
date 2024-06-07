@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - main
-#  schedule:
-#    - cron:  "0 10 * * *"
 
 jobs:
   deploy:
@@ -36,6 +34,6 @@ jobs:
           deploy_key: ${{ secrets.DEPLOY_KEY }}
           external_repository: Quiroptero/omiranda.dev
           cname: omiranda.dev
-          publish_branch: main
+          publish_branch: gh-pages
           publish_dir: ./public
           commit_message: ${{ github.event.head_commit.message }}
