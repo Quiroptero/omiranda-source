@@ -31,7 +31,7 @@ Fortunately, it does exist a _simple_ way to do it, which I'll cover here.
 This article assumes the following prerequisites, which the solution was tested with.
 Other configurations should also work after a few tweaks (or none at all).
 
-* **Hugo** >= `0.101`{{< line_break >}}I'm sure this version is way too high for what we're trying to achieve.
+* **Hugo** >= `0.101`{{< br >}}I'm sure this version is way too high for what we're trying to achieve.
 * A [Hugo site](https://gohugo.io/commands/hugo_new_site/).
 * A [default language set](https://gohugo.io/content-management/multilingual/#configure-languages) in the config file: ```defaultContentLanguage = <language-code>```
 * A [translation by filename structure](https://gohugo.io/content-management/multilingual/#translation-by-filename).
