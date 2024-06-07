@@ -6,7 +6,7 @@ date: 2024-06-05T14:19:46-06:00
 lastmod: 2024-06-06T14:19:46-06:00
 slug: "telegram-notifications"
 tags: ["Hugo", "Telegram", "Python", "GitHub actions"]
-draft: false
+draft: true
 ---
 
 In recent days I was thinking of enabling a way to send notifications to my contacts in Telegram each time I published a new post in my personal blog,
