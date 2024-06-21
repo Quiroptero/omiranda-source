@@ -6,9 +6,6 @@ lastmod: ""
 draft: false
 summary: ""
 slug: "about"
-aliases: []
-
-tags: []
 ---
 
 # Welcome to **The coding chiroptera's lore**!
@@ -19,27 +16,23 @@ You can find all of them grouped by year in the **[/archive](/archive)**.
 
 * The source code of this website is located in a [Github repository](https://github.com/Quiroptero/omiranda-source).
 * There's a **[/stats](/stats)** page to showcase some descriptive analytics.
-* This website has been inspired by many cool (and sometimes anonymous) people out there.
-To all of them, **[/thank-you](/thank-you)**.
 
 # About me
 
-I'm Osvaldo Miranda, a curiosity-driven learner currently working in the Data Engineering field.
+I'm Osvaldo Miranda, a curiosity-driven learner 
+that some time ago got caught up by the idea of having a personal website.
+I now have four of them.
 
-While my main interest is Python,
-I have also taken a dive on several other technologies,
-including [Hugo](https://gohugo.io/), which is the framework I use to build this site.
-
-There is a **[/uses](/uses)** page and also a **[/blogroll](/blogroll)**.
-
-<img src="/images/profile.jpeg" title="This is me" alt="A picture of myself" width="200" >
+In the tech side of things I lean towards automating stuff.
+I'm interested in open source, Python and in general DIY-ish projects, of which this site is an example.
 
 ### Where to find me
 
 * **Email**. I do prefer to be contacted by **[email](mailto:contact@omiranda.dev)**.
-* **This website**. I don't have social media.
+* **This website**.
 * **[GitHub profile](https://github.com/Quiroptero)**.
-* **LinkedIn**. Ugh. I really don't like it, but is somehow useful?
+* **[Telegram](https://t.me/omiranda_dev)**.
+* **LinkedIn**. Ugh.
 
 If you are interested in a CV/resume, you can check it out **[here](https://omiranda.dev/cv)**
 

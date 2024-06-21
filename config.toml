@@ -14,11 +14,8 @@ enableGitInfo = true
     # shortcodes
     path = "github.com/Quiroptero/hugo-shortcodes"
   [[module.imports]]
-    # customizations on base theme
-    path = "github.com/Quiroptero/hugo-theme-loveit-custom"
-  [[module.imports]]
     # site theme
-    path = "github.com/dillonzq/LoveIt"
+    path = "github.com/Quiroptero/RenameIt"
 
 # Author config
 [author]
@@ -196,10 +193,11 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 
   # Social config about the author
   [params.social]
-    Github = "Quiroptero"
-    Linkedin = "omiranda-dev"
-    Email = "hola@omiranda.dev"
     RSS = true
+    Github = "Quiroptero"
+    Email = "hola@omiranda.dev"
+    Telegram = "omiranda_dev"
+    Linkedin = "omiranda-dev"
 
   #  Page global config
   [params.page]
