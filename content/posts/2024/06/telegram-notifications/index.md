@@ -501,4 +501,13 @@ jobs:
           done
 ```
 
+That's it.
+We have made a Python script that sends messages through a Telegram bot
+and a GitHub action to trigger that script each time new content arrives to the repository.
+You can see this set up in action in the [source code of this website](https://github.com/Quiroptero/omiranda-source).
 
+## Join the channel
+
+If you have come this far, you might want to join [my channel](https://t.me/s/omiranda_dev) to keep up to date with new content.
+I write about my journey on the programming field and other computer-ish stuff.
+Thanks for reading.
