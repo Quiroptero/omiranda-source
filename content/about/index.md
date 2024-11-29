@@ -32,16 +32,5 @@ I'm interested in open source, Python and in general DIY-ish projects, of which 
 * **This website**.
 * **[GitHub profile](https://github.com/Quiroptero)**.
 * **[Telegram](https://t.me/omiranda_dev)**.
-* **LinkedIn**. Ugh.
 
 If you are interested in a CV/resume, you can check it out **[here](https://omiranda.dev/cv)**
-
----
-
-**Wait, what does "chiroptera" mean?**
-
-_Chiroptera_ is the scientific order that comprises bats.
-I love bats, they are fantastic animals that make the world a better place.
-There are a lot of cool facts about bats flying around this website, have you spotted them already?
-
-🦇
